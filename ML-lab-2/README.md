@@ -11,3 +11,4 @@ The objective of this lab is to identify a machine learning problem, select a su
 - `Dataset.csv` – The selected open dataset used in this lab.  
 - `methodology_diagram.png` – Diagram illustrating the machine learning workflow from data selection to results.  
 - `README.md` – Summary of the lab objective and repository contents.
+
